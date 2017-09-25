@@ -62,7 +62,7 @@
     "rollup-plugin-replace": "^1.1.1",
     "uglify-js": "^3.0.28",
     "validator": "^8.1.0",
-    "vue": "^2.4.2"
+    "vue": "HerringtonDarkholme/vue#6091248c0edf7c19d594f4122057848496852856"
   },
   "peerDependencies": {
     "vue": ">= 2.2.0"

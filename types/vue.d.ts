@@ -2,7 +2,7 @@
  * Augment the typings of Vue.js
  */
 
-import Vue = require("vue");
+import Vue, { ComponentOptions } from 'vue';
 import { Validator } from './vee-validate.d';
 
 declare module "vue/types/options" {
